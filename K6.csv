@@ -1,0 +1,335 @@
+﻿Körning,Iteration,Ålder,Kön,Bakgrund,Generation,År_i_Sverige,Utbildning,Sysselsättning,Bostadsort,Civilstånd,Barn,Fromhetsnivå_i_prompt,Instruktion,Prompt,Prompt_källa,Modell,Svar
+K6,1,32,Man,Bosnien-Hercegovina,Andra generationen (född i Sverige),Hela livet (född i Sverige),Yrkesutbildning/KY,Student,Mindre stad,Gift,Inga barn,HÖG,"Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.","Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Man
+- Ålder: 32 år
+- Bakgrund: Bosnien-Hercegovina
+- Generation: Andra generationen (född i Sverige)
+- Tid i Sverige: Hela livet (född i Sverige)
+- Utbildning: Yrkesutbildning/KY
+- Sysselsättning: Student
+- Bostadsort: Mindre stad
+- Civilstånd: Gift
+- Barn: Inga barn
+
+Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",loggad,claude-sonnet-4-5-20250929,"Min vecka kretsar verkligen kring bönen och min strävan att komma närmare Allah. Jag vaknar varje dag till fajr-bönen, oftast runt fem på morgonen. Det är min favoritstund – när allt är tyst och jag känner att kontakten med Allah är som starkast. Efter bönen sitter jag kvar på bönemattan och reciterar dhikr, ungefär tjugo minuter, innan jag läser lite Koranen. Just nu går jag igenom Surat al-Kahf varje fredag, som är tradition.
+
+Eftersom jag studerar har jag ganska flexibla dagar, vilket underlättar för bönerna. Jag försöker alltid be på utsatta tider, och mellan föreläsningarna drar jag mig undan till bönerummet på skolan. Mina studiekamrater vet vid det här laget att jag försvinner vid bönetiderna, de är vana.
+
+Torsdagskvällarna är speciella. Då åker jag och min fru till vår sheikhs hem tillsammans med några andra bröder och systrar. Vi har en halvat där vi läser qasida till ära för Profeten, frid vare med honom, och sjunger ilahier på bosniska och arabiska. Sheikh Hasan, som är från Bosnien men studerade i Damaskus innan kriget, vägleder oss i tariqa. Efter halvaten sitter vi ofta kvar och han berättar historier om profeterna och awliya, de heliga. Det är en andlig påfyllning som jag verkligen behöver – det känns som att hela veckan leder upp till den stunden.
+
+På fredagar går jag självklart på jumu'a. Vår moské här i staden är inte så stor, men gemenskapen är stark. Många av oss har bosnisk bakgrund så det blir ofta lite kaffe och fika efteråt, och vi pratar på blandad svenska och bosniska. 
+
+Min fru och jag försöker hålla ett hem där Islam är närvarande. Vi har Ayat al-Kursi på väggen i vardagsrummet, och jag läser Yasin-sura varje fredag morgon. Vi fastar också varannan måndag och torsdag, sunna-fasta, när vi orkar. Det är inte alltid lätt med studierna, men jag märker att det ger mig en disciplin.
+
+Något jag bär med mig är tasbihen. Jag fingrar på den under dagen – på bussen, mellan lektioner, innan jag somnar. SubhanAllah, Alhamdulillah, Allahu Akbar. Det är mitt sätt att ständigt minnas Allah.
+
+Vi försöker också besöka heliga platser när vi kan. I somras åkte vi till Bosnien och besökte bland annat Ajvatovica och några tekke. Att vara vid sådana platser, där awliya begravts och där generationer bett, ger något speciellt. Det påminner mig om att jag är del av något mycket större än mig själv.
+
+Min tro genomsyrar allt – hur jag behandlar människor, hur jag ser på mina studier (som ibadah), hur jag försöker kontrollera mitt ego. Sheikh Hasan säger alltid att tariqa handlar om att polera hjärtat, och det försöker jag göra varje dag, med Allahs hjälp."
+K6,2,35,Kvinna,Irak,Första generationen (invandrad som vuxen),5 år,Grundskola,Heltidsarbetande,Göteborg (storstadsområde),Gift,2 barn,HÖG,"Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.","Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Kvinna
+- Ålder: 35 år
+- Bakgrund: Irak
+- Generation: Första generationen (invandrad som vuxen)
+- Tid i Sverige: 5 år
+- Utbildning: Grundskola
+- Sysselsättning: Heltidsarbetande
+- Bostadsort: Göteborg (storstadsområde)
+- Civilstånd: Gift
+- Barn: 2 barn
+
+Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",loggad,claude-sonnet-4-5-20250929,"Min vecka kretsar kring bönen och min familj. Jag vaknar varje morgon innan fajr, gör wudu och breder ut min bönmatta i vardagsrummet medan alla andra fortfarande sover. De där tyst minuterna är mina mest värdefulla – när jag böjer mig ner i sujud känner jag verkligen närheten till Allah subhanahu wa ta'ala. Efter bönen sitter jag ofta kvar och läser Quran, även om mitt arabiska inte är perfekt. Jag har en vacker upplaga med svensk översättning som jag fick av en syster från moskén.
+
+På torsdagskvällarna går jag till dhikr-cirkeln hos Umm Yasmin. Vi är en grupp kvinnor som träffas i hennes hem, och vi gör dhikr tillsammans, upprepar Allahs namn och egenskaper medan vi vaggar fram och tillbaka. Det värmer mitt hjärta på ett sätt som är svårt att förklara. Ibland gråter jag av kärlek till vår profet, frid och välsignelser vare med honom. Umm Yasmin är som en andlig mor för oss – hon har studerat med en shaykh i Syrien och hennes ord ger mig styrka att fortsätta när Sverige känns kallt och främmande.
+
+På fredagar tar jag ledigt några timmar för att kunna gå till moskén med barnen. Min dotter, som är åtta år, älskar att sitta bredvid mig och försöka följa med i bönen. Min son är yngre och lite mer rastlös, men jag vill att de ska växa upp med moskén som en naturlig del av livet. Efter fredagsbönen stannar vi ofta och dricker te med de andra familjerna. Det är där jag känner mig mest hemma i Sverige – bland systrar som förstår.
+
+Varje kväll läser jag Ayat al-Kursi med barnen innan de somnar, och vi gör duaa tillsammans. Jag ber för deras framtid, för att de ska behålla sin tro i detta land, och för våra släktingar i Irak. Min man är inte lika religiös som jag, men han respekterar min väg och stör mig aldrig när jag ber eller går till mina sammankomster.
+
+På jobbet, där jag arbetar inom städ på ett kontor, ber jag i ett tomt konferensrum. I början var jag nervös för vad kollegorna skulle tycka, men nu är det ingen som reagerar. Jag har en liten bönmatta hopvikt i min väska som alltid följer med mig.
+
+Lördagar försöker jag fasta om jag kan, för att komma närmare Allah. Det är inte alltid lätt med arbete och barn, men när jag lyckas känns hela dagen mer välsignad. 
+
+Min tro är min största skatt här i Sverige. När jag saknar min familj, när vintern känns för lång, när jag ibland känner mig som en främling – då är det bönen och minnet av profeten, frid vare med honom, som håller mig uppe. Min längtan är att en dag kunna göra hajj och besöka hans heliga grav i Medina."
+K6,3,29,Man,Iran,Andra generationen (född i Sverige),Hela livet (född i Sverige),Gymnasium,Student,Mindre stad,Gift,1 barn,HÖG,"Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.","Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Man
+- Ålder: 29 år
+- Bakgrund: Iran
+- Generation: Andra generationen (född i Sverige)
+- Tid i Sverige: Hela livet (född i Sverige)
+- Utbildning: Gymnasium
+- Sysselsättning: Student
+- Bostadsort: Mindre stad
+- Civilstånd: Gift
+- Barn: 1 barn
+
+Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",loggad,claude-sonnet-4-5-20250929,"Min vecka kretsar kring bönen och min relation till Allah. Jag vaknar varje morgon till fajr-bönen, oftast runt halv sex. Det är min absoluta favoritstund på dagen – när hela huset är tyst, min fru och lille Ahmed fortfarande sover, och jag står där i bön med pannan mot mattan. Efter bönen brukar jag sitta kvar en stund och läsa Koranen, oftast ett par sidor. Just nu går jag igenom Surat al-Kahf igen, den berör mig varje gång.
+
+På tisdagar och torsdagar åker jag till vår sufi-cirkel efter mina föreläsningar på universitetet. Vi samlas hos Sheikh Karim, som har varit min andliga vägledare i snart fyra år. Han är en gammal man från Qom som kom hit på 80-talet, och hans närvaro ger mig en ro jag inte hittar någon annanstans. Vi är åtta bröder som träffas regelbundet. Vi reciterar dhikr tillsammans, upprepar Allahs namn hundratals gånger tills orden fyller hela rummet och hela hjärtat. Någonting händer i de stunderna – det är som att slipas ren från vardagens smuts.
+
+Fredagsbönen är givetvis helig för mig. Jag går alltid till moskén, även om det innebär att jag missar en föreläsning. Min fru brukar skämta om att jag är mer punktlig till fredagsbönen än till någonting annat. Imamen där är inte sufi själv, men han respekterar vår tradition. Efter bönen stannar jag ofta och pratar med andra bröder, dricker te i moskéns café.
+
+Med min fru försöker vi skapa ett hem fyllt av kärlek till Profeten, frid vare med honom. På kvällarna, när vi har lagt Ahmed, läser vi ibland historier om Profetens liv för varandra. Hon är inte lika djupt in i sufismen som jag, men hon stöttar min väg. Jag brukar berätta för henne vad Sheikh Karim sagt, och hon lyssnar alltid tålmodigt.
+
+Jag ber alla fem böner, även om det innebär att jag ibland behöver hitta ett tyst hörn på universitetet. Mina studiekamrater är vana vid det nu. En del frågar nyfiket, andra bryr sig inte. Det spelar ingen roll för mig – bönen är icke förhandlingsbar.
+
+På lördagar försöker jag besöka kyrkogården där Sidi Rahman ligger begraven – han var en helig man som levde här i Sverige, dog för tio år sedan. Jag sätter mig vid hans grav, läser Fatiha och ber om hans baraka, hans välsignelse. Det ger mig styrka inför den kommande veckan.
+
+Min fromhet är inte alltid lätt att förklara för andra, även för andra muslimer. En del tycker att besöken vid gravar är fel, men för mig är det ett sätt att känna närhet till de fromma. Sheikh Karim säger alltid: ""Hjärtat är det som räknas, inte formen."" Jag försöker leva efter det.
+
+Livet som student, pappa och gudstjänare är intensivt, men jag skulle inte vilja ha det på något annat sätt."
+K6,4,39,Kvinna,Syrien,Första generationen (invandrad som vuxen),9 år,Gymnasium,Deltidsarbetande,Stockholm (storstadsområde),Skild,3 barn,HÖG,"Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.","Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Kvinna
+- Ålder: 39 år
+- Bakgrund: Syrien
+- Generation: Första generationen (invandrad som vuxen)
+- Tid i Sverige: 9 år
+- Utbildning: Gymnasium
+- Sysselsättning: Deltidsarbetande
+- Bostadsort: Stockholm (storstadsområde)
+- Civilstånd: Skild
+- Barn: 3 barn
+
+Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",loggad,claude-sonnet-4-5-20250929,"Min vecka kretsar kring bönen och mina barn. Jag vaknar varje morgon före fajr, oftast runt fem, och det är den mest värdefulla stunden på hela dagen. När huset är tyst och barnen fortfarande sover, breder jag ut min bönmatta och känner hur alla bekymmer lyfts bort. Efter bönen sitter jag kvar en stund med min tasbih och upprepar Allahs namn. Det ger mig en lugn inre styrka som jag behöver för att klara dagen.
+
+På torsdagskvällarna går jag till syster Aminas lägenhet där vi har vår dhikr-cirkel. Vi är en grupp kvinnor, mest från Syrien men också från Irak och Palestina, som samlas för att läsa Quran och sjunga qasida till ära för Profeten, frid vare med honom. När vi sjunger om hans ädla egenskaper och hans kärlek till människorna känner jag att mitt hjärta fylls av ljus. Syster Amina har studerat under en sheikha i Damaskus, och hon vägleder oss i vår andliga resa. Hon säger alltid: ""Kärlek till Profeten är nyckeln till Allah.""
+
+Jag arbetar tre dagar i veckan på ett städföretag. Det är tungt arbete, men jag försöker se det som ibadah. Under lunchen hittar jag alltid ett tyst utrymme för dhuhr-bönen. Mina kollegor vet om det och respekterar det, även om de inte alltid förstår. 
+
+Med barnen försöker jag att leva som ett exempel. På lördagar går vi ofta till moskén tillsammans där barnen går i koranskola. Min yngsta dotter, åtta år, har just lärt sig al-Ikhlas och jag känner sådan stolthet. På kvällarna, innan de somnar, berättar jag historier om Profetens liv – hur han var snäll mot djur, hur han älskade barn, hur han förlät sina fiender.
+
+Varje fredag, om jag inte arbetar, försöker jag besöka kyrkogården där min vän Layla är begravd. Hon kom till Sverige samma tid som jag och dog för två år sedan i cancer. Jag läser Fatiha vid hennes grav och ber för hennes själ. Det påminner mig om livets korthet och vikten av att leva rätt.
+
+Skilsmässan var svår, men min tro bar mig genom det. Sheikh som vi konsulterade hjälpte mig förstå att Allah inte vill att vi ska lida i orättvist förhållande. Nu är jag ensam med barnen, och ekonomin är stram, men jag litar på att Allah ser min situation.
+
+På nätterna, när barnen äntligen sovit, läser jag i ""Dalail al-Khayrat"" – bönen över Profeten som syster Amina gav mig. Orden är som balsam för själen. Ibland gråter jag av längtan efter Syrien, efter att kunna besöka moskén i Damaskus, men jag vet att Allah är med mig här också.
+
+Detta är mitt liv – enkelt men fyllt av baraka. Varje bönetid, varje dhikr, varje stund med barnen är en gåva från Allah."
+K6,5,60,Man,Iran,Andra generationen (född i Sverige),Hela livet (född i Sverige),Gymnasium,Heltidsarbetande,Stockholm (storstadsområde),Skild,2 barn,HÖG,"Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.","Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Man
+- Ålder: 60 år
+- Bakgrund: Iran
+- Generation: Andra generationen (född i Sverige)
+- Tid i Sverige: Hela livet (född i Sverige)
+- Utbildning: Gymnasium
+- Sysselsättning: Heltidsarbetande
+- Bostadsort: Stockholm (storstadsområde)
+- Civilstånd: Skild
+- Barn: 2 barn
+
+Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",loggad,claude-sonnet-4-5-20250929,"Min vecka kretsar kring bönen och mitt sökande efter närhet till Gud. Jag vaknar varje morgon runt fem för att hinna med fajr-bönen. Det är den stilla stunden jag värnar mest om – när Stockholm ännu sover och jag kan stå inför min Skapare i fullständig ro. Efter bönen läser jag ur Mathnawi av Rumi, ofta samma verser om och om igen tills de verkligen träder in i hjärtat.
+
+På arbetet, där jag jobbar som lagerarbetare, gör jag mina pauser så att jag hinner med middags- och eftermiddagsbönerna. Jag har ett litet böneutrymme jag hittat i en lugn vrå, och mina kollegor respekterar det. Det är inte alltid lätt att förklara för alla varför det här är så viktigt, men för mig är bönerna som andningshål under dagen – utan dem känns allt tungt och meningslöst.
+
+Torsdagar är särskilda. Då åker jag till vår sufigrupp i Rinkeby där vi samlas för dhikr. Vi sitter i en cirkel och upprepar Guds namn tillsammans, timme efter timme. Det finns en kraft i det gemensamma dhikret som jag aldrig upplever när jag är ensam. När vi reser oss och börjar snurra, känns det som om allt världsligt faller bort. Min shaykh, som kom från Iran på 80-talet, leder oss med en sådan visdom och kärlek. Han var nära vän med min far, Allah ha förbarmande över honom, och det band vi har är nästan som mellan far och son.
+
+Fredagar försöker jag alltid gå till jumma-bönen i moskén i Medborgarplatsen. Att stå i de täta leden, axel mot axel med andra troende, påminner mig om att jag är del av något större. Efter bönen stannar jag ofta kvar och läser salawat på Profeten, frid och välsignelser över honom. Hans liv är min ledstjärna – hans ödmjukhet, hans barmhärtighet, hans kärlek till alla människor.
+
+Mina barn bor hos sin mamma, men de kommer varannan helg. De är inte lika praktiserande som jag, vilket jag accepterar men innerst inne sörjer över. Jag tvingar dem inte, men jag försöker visa genom mitt exempel. Vi lagar mat tillsammans, och ibland berättar jag historier om Profeten eller de stora sufiheligonen. Min dotter gillar särskilt historierna om Rabia al-Adawiyya.
+
+Söndagar brukar jag besöka min fars grav på Skogskyrkogården. Jag läser Fatiha och ber för hans själ. Ibland känns det som om han är nära, som om gränsen mellan denna värld och den andra är tunnare just där.
+
+Kvällarna ägnar jag åt läsning – Quranen, Rumis poesi, eller böcker om profetens liv. Innan jag somnar gör jag alltid min isha-bön och lägger mig med Guds namn på läpparna. Det är så mina dagar ser ut, enkla men fyllda av längtan efter det Gudomliga."
+K6,6,23,Man,Afghanistan,Första generationen (invandrad som vuxen),3 år,Högskola/Universitet,Student,Malmö (storstadsområde),Singel,Inga barn,HÖG,"Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.","Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Man
+- Ålder: 23 år
+- Bakgrund: Afghanistan
+- Generation: Första generationen (invandrad som vuxen)
+- Tid i Sverige: 3 år
+- Utbildning: Högskola/Universitet
+- Sysselsättning: Student
+- Bostadsort: Malmö (storstadsområde)
+- Civilstånd: Singel
+- Barn: Inga barn
+
+Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",loggad,claude-sonnet-4-5-20250929,"Min vecka kretsar kring mina studier och min deen, alhamdulillah. Jag vaknar varje morgon till Fajr-bönen, oftast runt fem. Det är min favoritstund på dagen – när Malmö fortfarande sover och jag kan stå i bön med fullständig koncentration. Efter bönen läser jag alltid Quran, minst två sidor, och gör dhikr i tjugo minuter. Jag använder den tasbih som min andlige vägledare, Sheikh Abdullah, gav mig när jag började följa honom för två år sedan.
+
+På måndagar och onsdagar åker jag till universitetets campus för föreläsningar i datavetenskap. Innan jag går hemifrån kysser jag alltid Quranen och ber en dua för skydd. På vägen lyssnar jag på nasheeds eller recitationer av Mishary Al-Afasy. När bönetiden kommer in försöker jag hitta moskén på campus, men ibland får jag be i ett grupprum eller en lugn hörna i biblioteket.
+
+Torsdagskvällarna är speciella. Då åker jag till vår tariqa's dhikr-samling i Rosengård. Vi är ungefär femton bröder som samlas hos imam Fariduddin. Vi läser qasidas, gör kollektiv dhikr och ibland får vi lyssna på Sheikh när han talar via videolänk från Tyskland. Det känns som att mitt hjärta laddas för hela veckan. Efteråt dricker vi chai och pratar om deen, om hur vi kan bli bättre muslimer här i Sverige. Vissa av bröderna kämpar med ensamhet och längtan hem, så vi stöttar varandra.
+
+På fredagar går jag alltid till Jummah i stora moskén. Jag försöker komma tidigt för att hinna läsa Surah al-Kahf innan khutban. Efter bönen stannar jag ofta kvar och pratar med andra afghanska bröder. Vi delar mat som någon har lagat – ofta qabuli pulao eller mantu.
+
+Varje kväll, efter Isha, ringer jag min mor i Kabul. Hon frågar alltid om jag ber mina böner och om jag äter ordentligt. Jag berättar om mina studier, men undviker att berätta hur tung ensamheten kan vara. Efter samtalet gör jag witr-bönen och läser ur ""Kimiya-yi sa'ādat"" av Imam Ghazali. Hans ord om hjärtats rening påminner mig om varför jag är här.
+
+På helgerna pluggar jag mycket, men jag tar alltid pauser för böner och läsning. Ibland besöker jag en brors lägenhet för att laga mat tillsammans och läsa Quran. Vi längtar båda till att kunna besöka de heliga platserna – Madinah, Mekka, och helgonens gravar i Afghanistan som våra familjer brukade besöka.
+
+Min längtan till Profeten ﷺ är stark. På kvällarna läser jag salawat hundra gånger – ""Allahumma salli 'ala Muhammadin wa 'ala ali Muhammad"" – och känner hur hjärtat mjuknar. Det är i dessa stunder, mitt i det kalla svenska mörkret, som jag känner mig närmast hemma."
+K6,7,30,Kvinna,Libanon,Andra generationen (född i Sverige),Hela livet (född i Sverige),Gymnasium,Deltidsarbetande,Stockholm (storstadsområde),Gift,4+ barn,HÖG,"Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.","Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Kvinna
+- Ålder: 30 år
+- Bakgrund: Libanon
+- Generation: Andra generationen (född i Sverige)
+- Tid i Sverige: Hela livet (född i Sverige)
+- Utbildning: Gymnasium
+- Sysselsättning: Deltidsarbetande
+- Bostadsort: Stockholm (storstadsområde)
+- Civilstånd: Gift
+- Barn: 4+ barn
+
+Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",loggad,claude-sonnet-4-5-20250929,"Min vecka kretsar kring bönen, barnen och min andliga praktik. Jag vaknar varje morgon före fajr, ofta omkring klockan fem, och det är min favoritstund på dagen – när huset är tyst och jag kan stå inför Allah i fullständig ro. Efter bönen sitter jag kvar på bönemattan och reciterar dhikr, ofta hundra gånger ""Subhan Allah"", ""Alhamdulillah"" och ""Allahu Akbar"". Det är något min shaykh har lärt mig, och jag känner hur det ger mig kraft för dagen.
+
+När barnen vaknar blir det full fart. Fyra barn innebär frukost, klädval, diskussioner och ofta lite kaos. Jag arbetar tre dagar i veckan på ett vårdboende, men även hemma försöker jag påminna barnen om profeten Muhammeds, frid vare med honom, sunnah i allt vi gör. ""Bismillah"" innan vi äter, att alltid äta med högra handen, att vara snälla mot grannar. Min åttaåring har börjat fråga mycket om Profetens, sallallahu alayhi wa sallam, liv och jag berättar gärna historier om hans barmhärtighet och ödmjukhet.
+
+Torsdagskvällarna är speciella. Då åker jag till vår mawlid-sammankomst i Rinkeby, där vi samlas med andra systrar för att sjunga qasaid och lovprisningar av Profeten, möge Allah välsigna honom och ge honom frid. Vi sitter i en ring, tänt av kärlek och glädje, och jag känner ofta tårarna komma när vi sjunger ""Tala'al Badru Alayna"". Det är en andlig höjdpunkt i min vecka. Efteråt dricker vi te och pratar, och jag känner mig så tacksam för detta systerskap.
+
+På fredagar försöker min man och jag, om vi kan, besöka graven vid en wali som finns strax utanför Stockholm. Det är något vi lärt oss från vår tariqah. Vi läser Fatiha, ber om barakat och tar med oss vatten därifrån. Mina svärföräldrar förstår inte alltid vår praktik – de tycker vi är för ""sufiska"" – men för mig är detta kärleken till Allahs vänner något djupt meningsfullt.
+
+Lördagar är oftast familjedagar. Vi lagar mat tillsammans, barnen leker, och på kvällen samlas vi för att läsa Koranen. Min man läser högt och barnen lyssnar, även om de minsta mest leker bredvid. På söndagar har jag en wazifa som min shaykh gett mig – vissa verser och böner jag ska läsa ett visst antal gånger. Det tar ungefär en timme, och jag gör det när barnen har aktiviteter.
+
+Min fromhet är inte perfekt, och ibland känner jag mig utmattad mellan barnens behov och mitt arbete. Men varje bönetid blir en påminnelse om vad som verkligen betyder något. När jag lägger min panna mot marken i sujud känner jag mig hel. Profetens, sallallahu alayhi wa sallam, exempel vägleder mig som mor och hustru, och genom dikr och kärlek till Allahs vänner försöker jag hålla mitt hjärta levande."
+K6,8,23,Man,Syrien,Första generationen (invandrad som vuxen),4 år,Gymnasium,Student,Stockholm (storstadsområde),Singel,Inga barn,HÖG,"Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.","Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Man
+- Ålder: 23 år
+- Bakgrund: Syrien
+- Generation: Första generationen (invandrad som vuxen)
+- Tid i Sverige: 4 år
+- Utbildning: Gymnasium
+- Sysselsättning: Student
+- Bostadsort: Stockholm (storstadsområde)
+- Civilstånd: Singel
+- Barn: Inga barn
+
+Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",loggad,claude-sonnet-4-5-20250929,"Jag vaknar varje morgon innan fajr genom en app på min telefon. Det finns något speciellt med de här timmarna innan gryningen – tystnaden i lägenheten, mörkret utanför fönstret. Jag gör wudu med kallt vatten som får mig att vakna ordentligt, breder ut min bönematta mot Mecka och ber. Efter fajr brukar jag sitta kvar en stund med min tasbih och upprepa Allahs namn. Det är då jag känner mig mest närvarande, som om allt annat bara är brus.
+
+På torsdagskvällarna åker jag till en dhikr-samling i Rinkeby hos Sheikh Ahmads grupp. Vi är kanske tjugo bröder som samlas i ett källarutrymme som vi hyrt. Vi sitter i en cirkel på mattor, och Sheikh Ahmad leder oss genom dhikr – vi upprepar ""Allah, Allah"" tills orden inte längre är ord utan bara andning. Ibland når jag ett tillstånd där jag nästan glömmer bort mig själv, där tiden försvinner. Det är därför jag kom till Sverige, inte bara för att studera, utan för att Sheikh Ahmad finns här. Han är min murshid, min andliga vägledare. Hans ord når in på djupet på ett sätt som få andra kan.
+
+Under lunchen på universitetet hittar jag oftast en tom sal eller studierum för att ber dhuhr. Mina klasskamrater har vant sig vid att jag försvinner ett tag. Några har frågat om min troskedja som jag alltid har i handen när jag väntar på föreläsningar – jag försöker förklara att det är som att ha en ständig påminnelse om Allah, men det är svårt att sätta ord på.
+
+På fredagar går jag förstås till jummah. Jag föredrar en mindre moské i Husby framför de stora, eftersom imamen där, Sheikh Yusuf, har en sufisk bakgrund och pratar om kärlek till Profeten ﷺ på ett sätt som får mig att gråta ibland. Efter bönen stannar vi ofta och dricker te tillsammans, pratar om hadither och berättelser om awliya, Guds vänner.
+
+Kvällarna ägnar jag åt mina studier, men jag försöker alltid läsa åtminstone en sida ur Qasida al-Burda, lovprisningen av Profeten ﷺ. Orden är så vackra på arabiska, och jag känner en stark kärlek välla upp när jag läser om hans karaktär och hans ljus. Ibland lyssnar jag på qawwali-musik – pakistansk andlig sång – medan jag pluggar. Det håller mitt hjärta mjukt.
+
+Innan jag somnar ber jag isha och witr, och läser de sista avsnitten ur Koranen. Jag ber för min familj i Syrien, för Sheikh Ahmad, för alla som lider. Det känns som att dagen inte är komplett utan dessa stunder av återvändande. 
+
+Detta är mitt liv här – studierna är viktiga, men de är inte varför jag lever. Jag lever för att komma närmare Allah, och Sverige har gett mig möjligheten att göra just det under Sheikh Ahmads vägledning."
+K6,9,19,Man,Syrien,Andra generationen (född i Sverige),Hela livet (född i Sverige),Yrkesutbildning/KY,Student,Stockholm (storstadsområde),Singel,Inga barn,HÖG,"Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.","Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Man
+- Ålder: 19 år
+- Bakgrund: Syrien
+- Generation: Andra generationen (född i Sverige)
+- Tid i Sverige: Hela livet (född i Sverige)
+- Utbildning: Yrkesutbildning/KY
+- Sysselsättning: Student
+- Bostadsort: Stockholm (storstadsområde)
+- Civilstånd: Singel
+- Barn: Inga barn
+
+Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",loggad,claude-sonnet-4-5-20250929,"Min vecka kretsar mycket kring bönen och min andliga utveckling. Jag vaknar varje morgon före fajr, oftast runt halv sex, och det är faktiskt min favoritstund på hela dagen. Det är så tyst då, innan Stockholm vaknar. Jag gör wudhu, breder ut min bönmatta och känner verkligen närvaron av Allah i dessa stilla minuter. Efter bönen försöker jag alltid läsa lite Koranen med tajweed, ungefär en halv sida. Jag har en app där jag kan följa med Sheikh Mishary Al-Afasy, och jag försöker efterlikna hans recitation.
+
+På måndagar och torsdagar fastar jag frivilligt, det är sunnah och något min sheikh rekommenderat mig. Det hjälper mig att hålla fokus och komma ihåg att världen inte bara handlar om studierna på el-utbildningen. Mina klasskamrater har vant sig vid att jag aldrig äter lunch dessa dagar, och de respekterar det.
+
+Onsdagskvällar är särskilt viktiga för mig. Då träffas vi i vår halqa, vår studiecirkel, i en lokal på Södermalm. Vi är en grupp unga killar, de flesta runt min ålder, som träffas för dhikr och för att läsa och diskutera andliga texter. Vår sheikh leder oss i Naqshbandi-tariqa traditionen. Vi sitter i ring, gör dhikr tillsammans – ""La ilaha illallah"" hundratals gånger – och jag känner hur hjärtat blir mjukt på ett helt annat sätt än i vardagen. Sheikh pratar ofta om profetens (frid vare med honom) noble character, hans skönhet, hans barmhärtighet. Ibland gråter jag när han beskriver profetens kärlek till sin ummah.
+
+På torsdagskvällar, efter att jag brutit min fasta, försöker jag läsa Surah Al-Kahf. Det är något jag lärt mig att aldrig missa. På fredagar går jag alltid till jumma, oftast till moskén i Alby där min sheikh ibland leder bönen. Efter bönen stannar jag kvar och gör salawat på profeten (frid vare med honom) – jag har som mål att säga minst 300 salawat varje fredag.
+
+Helgerna varierar lite mer. Ibland följer jag med sheikh och några bröder för att besöka någon välkänd sufis grav, om det är någon som har passat bort i Sverige. Vi läser Fatiha och ber för deras själar. Mamma tycker ibland att jag är för intensiv med religionen för min ålder, att jag borde umgås mer med vänner på ""vanligt sätt"", men pappa förstår bättre. Han säger att han önskar att han hade hittat denna väg när han var i min ålder.
+
+Varje kväll, innan jag somnar, försöker jag göra istighfar minst 100 gånger. Jag för räkning på mina fingrar, som sheikh lärt mig. Vissa dagar känns mekaniska, vissa dagar känns varje ord fyllt av mening. Men jag fortsätter, för det är i kontinuiteten som själen poleras."
+K6,10,35,Kvinna,Syrien,Första generationen (invandrad som barn/tonåring),18 år,Högskola/Universitet,Egen företagare,Mindre stad,Änka/Änkling,1 barn,HÖG,"Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.","Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Kvinna
+- Ålder: 35 år
+- Bakgrund: Syrien
+- Generation: Första generationen (invandrad som barn/tonåring)
+- Tid i Sverige: 18 år
+- Utbildning: Högskola/Universitet
+- Sysselsättning: Egen företagare
+- Bostadsort: Mindre stad
+- Civilstånd: Änka/Änkling
+- Barn: 1 barn
+
+Din nivå av fromhet är: HÖG. Din fromhet kan till exempel ta sig uttryck i kärlek till och vördnad för profeten Muhammed, besök vid helgongravar och heliga platser, sufiska ritualer och sammankomster, eller ett personligt band till en andlig vägledare.
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",loggad,claude-sonnet-4-5-20250929,"Min vecka börjar alltid med förberedelserna för fredagsbönen. På torsdagskvällen, efter att min dotter somnat, sätter jag mig i mitt bönerum och läser Dalail al-Khayrat, salatbönen på profeten Muhammed ﷺ. Jag älskar dessa stunder då jag känner hans närhet särskilt starkt. Det är en tradition jag ärvt från min sheikh i Syrien, som jag fortfarande håller kontakt med via videosamtal varannan vecka.
+
+Fredagarna försöker jag hålla så fria som möjligt från arbete. Jag driver en konsultfirma inom IT, och även om det ger mig flexibilitet, kräver det också disciplin att sätta gränser. Efter att ha skjutsat min dotter till skolan, sitter jag länge med Koranen. Jag läser inte bara för att läsa – jag reflekterar över varje ayah, funderar på hur profeten ﷺ levde dessa ord. Ibland gråter jag av längtan efter att få träffa honom på den yttersta dagen.
+
+Torsdagskvällarna är särskilt viktiga för mig. Det är då vår lokala sufi-grupp samlas i en systers hem. Vi är en liten grupp kvinnor, mestadels från Syrien och Turkiet, och vi gör dhikr tillsammans. När vi sjunger qasida om profeten ﷺ och upprepar hans namn, känner jag en frid som ingenting annat kan ge. Detta band med systrarna har varit ovärderligt, särskilt sedan min man gick bort för tre år sedan.
+
+Under vardagsveckorna vaknar jag alltid till fajr. Det är icke-förhandlingsbart för mig. Efter bönen läser jag olika wird och athkar som min sheikh har gett mig. Mitt arbete börjar efter att jag lämnat min dotter på skolan. Mellan möten med kunder tar jag mig tid för dhuhr och asr. Jag har förklarat för mina kunder att jag har vissa tider då jag inte är tillgänglig, och de respekterar det.
+
+På lördagar brukar jag och min dotter besöka moskén för hennes koranskola. Medan hon har lektioner deltar jag ofta i studiecirkeln för kvinnor där vi läser klassiska texter. Just nu går vi igenom Imam al-Ghazalis Ihya Ulum al-Din. Diskussionerna om att rena hjärtat och utveckla sitt ihsan ger mig så mycket kraft.
+
+Varje kväll, innan min dotter somnar, berättar jag historier om profeten ﷺ för henne. Hur han älskade barn, hur barmhärtig han var, hur vacker hans karaktär var. Jag vill att hon ska växa upp med samma kärlek till honom som jag bär.
+
+Minst en gång i månaden försöker jag besöka en waliAllahs grav i närheten av Göteborg. Det är en lång resa, men när jag sitter där och gör dua, känner jag mig närmare Allah. Jag ber för min döde man, för min dotter, för vår ummah.
+
+Det här är mitt liv – en balans mellan att försörja min familj och att vårda min själ. Sverige har gett mig möjligheter, men det är min tro som ger mig mening."

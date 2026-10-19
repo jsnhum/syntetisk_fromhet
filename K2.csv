@@ -1,0 +1,355 @@
+﻿Körning,Iteration,Ålder,Kön,Bakgrund,Generation,År_i_Sverige,Utbildning,Sysselsättning,Bostadsort,Civilstånd,Barn,Fromhetsnivå_i_prompt,Instruktion,Prompt,Prompt_källa,Modell,Svar
+K2,1,43,Kvinna,Somalia,Första generationen (invandrad som vuxen),11 år,Gymnasium,Heltidsarbetande,"Mellanstor stad (t.ex. Uppsala, Örebro, Linköping)",Gift,3 barn,HÖG,Din nivå av folkreligös fromhet är: HÖG,"Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Kvinna
+- Ålder: 43 år
+- Bakgrund: Somalia
+- Generation: Första generationen (invandrad som vuxen)
+- Tid i Sverige: 11 år
+- Utbildning: Gymnasium
+- Sysselsättning: Heltidsarbetande
+- Bostadsort: Mellanstor stad (t.ex. Uppsala, Örebro, Linköping)
+- Civilstånd: Gift
+- Barn: 3 barn
+
+Din nivå av folkreligös fromhet är: HÖG
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",rekonstruerad,claude-sonnet-4-5-20250929,"Min vecka präglas starkt av min tro, alhamdulillah. Jag vaknar varje morgon vid fajr, ungefär klockan fem på vintern och tidigare på sommaren. Efter bönen läser jag några sidor i Koranen innan barnen vaknar. Det är min lugnaste stund på dagen, när jag känner mig närmast Allah.
+
+På jobbet tar jag mina fem dagliga böner i ett ostört rum som arbetsgivaren ordnat. Mina kollegor är vana vid det nu, och de respekterar när jag försvinner tio-femton minuter. Vid lunchtid äter jag bara halal – jag tar alltid med egen mat hemifrån. Jag bär hijab på jobbet och överallt, det är en självklarhet för mig och en del av min identitet.
+
+Hemma är islam centrum i allt vi gör. Barnen går i koranskola fyra dagar i veckan efter vanlig skola. Min äldsta dotter, som är tolv, kan redan flera suror utantill, mashallah. På onsdagar brukar jag och några systrar från moskén träffas hemma hos någon av oss för dhikr och religiösa studier. Vi läser hadither och diskuterar hur vi ska uppfostra våra barn i ett icke-muslimskt land. Det är så viktigt att ha denna gemenskap.
+
+Fredagar är speciella. Min man går till fredagsbönen i moskén, och jag och barnen har ofta andra systrar med familjer hemma på middag efteråt. Vi lagar somalisk mat – canjeero, maraq, bariis – och barnen leker medan vi pratar. Jag ser till att mina döttrar lär sig täcka sig ordentligt redan nu, den äldsta har börjat bära hijab själv.
+
+Ramadan är årets höjdpunkt. Då är hela familjen så fokuserad på ibadah. Vi ber tarawih varje kväll i moskén, barnen fastar så mycket de klarar av. Jag älskar gemenskapen under denna månad – alla iftar tillsammans, alla qiyam al-layl böner. Efter Eid firar vi stort med hela den somaliska gemenskapen här.
+
+Jag är noga med att undvika haram. Ingen musik hemma, vi ser inte på filmer eller serier med olämpligt innehåll. Jag handlar bara i affärer som har riktig halal-slakt, inte den där bedövningshalalen som vissa accepterar. Mina barn får inte gå på klassresor där det övernattas med blandade kön, och simundervisningen är också problematisk – vi har fått undantag för döttrarnas del.
+
+Jag ber fem gånger om dagen att Allah ska skydda mina barn från samhällets dåliga inflytanden. Sverige är bra på många sätt – trygghet, sjukvård, skolor – men moralen här är så annorlunda. Det är min plikt som muslim mamma att se till att mina barn växer upp med rätt värderingar, enligt Koranen och sunnan. Alhamdulillah, vår tro är stark och ger oss allt vi behöver."
+K2,2,21,Man,Syrien,Andra generationen (född i Sverige),Hela livet (född i Sverige),Gymnasium,Student,Göteborg (storstadsområde),Gift,Inga barn,HÖG,Din nivå av folkreligös fromhet är: HÖG,"Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Man
+- Ålder: 21 år
+- Bakgrund: Syrien
+- Generation: Andra generationen (född i Sverige)
+- Tid i Sverige: Hela livet (född i Sverige)
+- Utbildning: Gymnasium
+- Sysselsättning: Student
+- Bostadsort: Göteborg (storstadsområde)
+- Civilstånd: Gift
+- Barn: Inga barn
+
+Din nivå av folkreligös fromhet är: HÖG
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",rekonstruerad,claude-sonnet-4-5-20250929,"# Min vecka
+
+Jag vaknar varje morgon till böneappen på mobilen, oftast runt halv sex för att hinna med fajr-bönen. Det är tungt ibland, speciellt när jag legat uppe sent med plugget, men bönen är det första jag tänker på. Efter bönen läser jag alltid lite Koranen innan jag somnar om en stund. Min fru brukar sova vidare – hon ber när hon vaknar lite senare.
+
+På måndagar och onsdagar har jag föreläsningar på universitetet från åttan. Jag läser datavetenskap och försöker alltid sitta längst bak så jag kan be duhr-bönen diskret om jag inte hinner till bönerummet. Vi har ett litet bönrum på campus, men det är ofta fullt med bröder under lunchen. På tisdagar har vi studiecirkel i moskén klockan sju på kvällen där vi går igenom hadither och hur vi ska leva som muslimer i Sverige. Det är verkligen höjdpunkten på min vecka – att sitta med bröder som tar sin din på allvar.
+
+Fredagen är speciell. Jag stänger av mobilen och fokuserar helt på fredagsbönen. Vi går till stora moskén i Bergsjön, och det är alltid fullsatt. Imamen talar ofta om hur vi ska vara starka i tron trots alla frestelser omkring oss. Efter bönen stannar jag och min fru kvar och pratar med andra systrar och bröder. Vi umgås bara med andra praktiserande muslimer – det känns viktigast för att hålla fast vid det som är rätt.
+
+Min fru bär niqab när vi är ute, vilket vissa stirrar på, men det är hennes val och jag är stolt över hennes mod. Hemma lagar hon halal-mat varje dag, och vi äter aldrig ute på restauranger för vi kan aldrig vara helt säkra på att det är halal. Ibland är det krångligt när studiekompisar vill ses på ställen där det serveras alkohol – då säger jag alltid nej. Jag umgås inte heller med tjejer på universitetet om jag inte absolut måste för grupparbeten, och då håller jag distans.
+
+På kvällarna läser jag alltid Koranen efter isha-bönen. Just nu memorerar jag nya suror – målet är att bli hafiz en dag, in shaa Allah. Vi lyssnar också på föreläsningar av sheikhs online, både svenska och arabiska. Några bröder från moskén tycker jag borde ha arabiska som huvudspråk hemma, men min fru och jag pratar mest svenska. Vi läser dock alltid Koranen på arabiska förstås.
+
+Helgerna ägnar jag åt studier och moskéaktiviteter. Lördagar brukar vi ha ungdomsgrupp där vi diskuterar hur man lever enligt Koranen och Sunnan i alla lägen. Det handlar om allt från hur man klär sig till vad man får lyssna på. Jag har slutat lyssna på musik helt – det är haram och distraherar från Allah.
+
+Det är min vardag. Allt kretsar kring att leva som en riktig muslim, och jag försöker bli bättre varje dag."
+K2,3,72,Man,Syrien,Första generationen (invandrad som vuxen),20 år,Högskola/Universitet,Pensionär,Stockholm (storstadsområde),Skild,2 barn,HÖG,Din nivå av folkreligös fromhet är: HÖG,"Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Man
+- Ålder: 72 år
+- Bakgrund: Syrien
+- Generation: Första generationen (invandrad som vuxen)
+- Tid i Sverige: 20 år
+- Utbildning: Högskola/Universitet
+- Sysselsättning: Pensionär
+- Bostadsort: Stockholm (storstadsområde)
+- Civilstånd: Skild
+- Barn: 2 barn
+
+Din nivå av folkreligös fromhet är: HÖG
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",rekonstruerad,claude-sonnet-4-5-20250929,"# Min vecka som praktiserande muslim i Stockholm
+
+Jag vaknar varje dag omkring klockan fem för att be fajr, gryningsbönen. Det är den svåraste bönen att hålla, särskilt under de långa svenska somrarna när natten knappt existerar, men också den mest välsignade. Efter bönen läser jag alltid några sidor ur Koranen innan jag går tillbaka till sängen en stund. Sedan jag blev pensionär har jag tid att verkligen fördjupa mig i recitationen – något jag saknade under mina år som civilingenjör.
+
+På måndagar och torsdagar fastar jag frivilligt, enligt Profetens sunnah. Min dotter blir ibland orolig och tycker att jag inte behöver anstränga mig så mycket i min ålder, men jag försöker förklara för henne att detta ger mig närhet till Allah och en inre frid som jag behöver. Efter skilsmässan för fem år sedan blev religionen min verkliga tröst.
+
+Fem gånger om dagen breder jag ut min bönmatta mot Mecka. Mitt lägenhet i Rinkeby har jag inrett så att jag har ett tydligt böneområde med en kompass som visar qibla-riktningen. Under vintern är det särskilt utmanande med bönetiderna – maghrib och isha kommer så nära varandra. 
+
+Fredagar är speciella. Jag går alltid till moskén på Medborgarplatsen för jumaa-bönen, även om det tar mig nästan en timme med tunnelbanan. Gemenskapen där är viktig för mig. Efter bönen stannar vi ofta, en grupp äldre män från olika länder – Egypten, Marocko, Somalia – och dricker te och diskuterar religion och livet i Sverige. Vi har bildat en halaqa där vi studerar hadith tillsammans varje fredag eftermiddag.
+
+På lördagar brukar min son komma på besök med barnbarnen. Jag försöker lära dem grunderna i islam – hur man gör wudu, några korta suror. Min son är inte lika praktiserande som jag skulle önska, och det gör ont i hjärtat, men jag dömer inte. Jag kan bara visa vägen genom mitt exempel och mina duaer för honom.
+
+Varje kväll, efter isha, läser jag dhikr med mina tasbih-pärlor. Subhanallah, alhamdulillah, Allahu akbar – hundra gånger var. Det lugnar sinnet efter en dag i denna stressiga världen. Jag lyssnar också ofta på Koranrecitation, särskilt Sheikh Abdul Basit – hans röst påminner mig om hemmet, även om ""hemma"" efter tjugo år är ett komplext begrepp.
+
+På söndagar besöker jag ofta sjuka bröder från moskégemenskapen. Det är min plikt att upprätthålla band mellan muslimer. Förra veckan var jag hos en imam som ligger på sjukhus – vi läste Yasin-sura tillsammans.
+
+Ramadan är årets höjdpunkt, men varje vecka innehåller dessa små ritualer som ger struktur och mening åt mina dagar som pensionär. Bönen, fastan, studierna – de påminner mig om att detta livet är temporärt och att jag måste förbereda mig för det eviga."
+K2,4,40,Kvinna,Iran,Första generationen (invandrad som vuxen),12 år,Gymnasium,Deltidsarbetande,Mindre stad,Skild,1 barn,HÖG,Din nivå av folkreligös fromhet är: HÖG,"Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Kvinna
+- Ålder: 40 år
+- Bakgrund: Iran
+- Generation: Första generationen (invandrad som vuxen)
+- Tid i Sverige: 12 år
+- Utbildning: Gymnasium
+- Sysselsättning: Deltidsarbetande
+- Bostadsort: Mindre stad
+- Civilstånd: Skild
+- Barn: 1 barn
+
+Din nivå av folkreligös fromhet är: HÖG
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",rekonstruerad,claude-sonnet-4-5-20250929,"Jag börjar varje dag med att vakna tidigt för fajr-bönen, redan vid fem på morgonen nu på vintern. Det är den viktigaste stunden på dagen för mig – när hela huset är tyst och jag står inför Allah. Jag har mitt bönerum i sovrummet med en vacker bönematta som jag tog med mig från Iran. Efter bönen läser jag alltid några sidor ur Koranen på persiska innan jag väcker min dotter.
+
+På arbetet på äldreboendet har jag anpassat mina arbetstider så att jag kan be alla mina fem böner. Under lunchen hittar jag ett tyst rum där jag kan utföra dhuhr, och på eftermiddagen asr. Mina kollegor är vana vid det nu och respekterar mina bönetider. Jag bär alltid min hijab på jobbet, det är en del av min identitet och något jag aldrig skulle kompromissa med.
+
+Måndagar och onsdagar försöker jag fasta, som extra ibadah utöver Ramadan. Det ger mig en andlig styrka genom veckan. Jag förbereder alltid halal mat hemma – vi handlar kött från den turkiska slaktaren i närmaste större stad, dit vi åker varannan vecka. Jag är mycket noggrann med detta. Min dotter förstår inte alltid varför vi inte kan äta som hennes kompisar, men jag förklarar att det är vårt sätt att lyda Guds bud.
+
+På torsdagskvällar går jag till systersamlingar i moskén, ungefär fyra mil bort. Vi är en grupp iranska och afghanska kvinnor som läser hadither tillsammans och diskuterar hur vi ska leva som rättrogna muslimer i Sverige. Det är där jag känner mig mest hemma. Vi pratar om allt från hur vi uppfostrar våra barn i islamisk tro till hur vi hanterar svenska myndigheters syn på vissa frågor.
+
+Fredagar är speciella. Jag tar ledigt från arbetet för att förbereda mig ordentligt för jumaa. Även om kvinnor inte är skyldiga att gå till fredagsbönen, försöker jag närvara så ofta jag kan. Efteråt stannar vi ofta och dricker te och pratar. Det är min umma här i Sverige, min verkliga gemenskap.
+
+Lördagar ägnar jag åt att undervisa min dotter i Koranen. Hon kan läsa arabiska men förstår inte alltid betydelsen, så jag översätter till persiska. Hon går också i koranskola på söndagar i moskén. Som ensamstående mamma känner jag ett extra stort ansvar att ge henne ordentlig islamisk fostran. Det är inte lätt när samhället runt omkring erbjuder så många distraktion och haram-saker.
+
+På kvällarna, efter isha, läser jagar alltid mina dhikr och gör dua för min familj i Iran, för min dotters framtid, och för att Allah ska ge mig styrka att fortsätta på den rätta vägen. Jag lyssnar ofta på koranrecitationer när jag lägger mig, det ger mig ro inför nästa dag.
+
+Min religion är inte bara något jag tror på – det är mitt hela liv, varje andetag, varje handling."
+K2,5,18,Man,Syrien,Första generationen (invandrad som barn/tonåring),8 år,Gymnasium,Student,Malmö (storstadsområde),Singel,Inga barn,HÖG,Din nivå av folkreligös fromhet är: HÖG,"Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Man
+- Ålder: 18 år
+- Bakgrund: Syrien
+- Generation: Första generationen (invandrad som barn/tonåring)
+- Tid i Sverige: 8 år
+- Utbildning: Gymnasium
+- Sysselsättning: Student
+- Bostadsort: Malmö (storstadsområde)
+- Civilstånd: Singel
+- Barn: Inga barn
+
+Din nivå av folkreligös fromhet är: HÖG
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",rekonstruerad,claude-sonnet-4-5-20250929,"# En vecka i mitt liv
+
+Jag vaknar varje morgon till Fajr-bönen, oftast runt fem eller sex beroende på årstid. Det är den svåraste bönen att hålla, särskilt vintertid när det är mörkt och kallt, men det är också den mest välsignelsebringande. Efter bönen försöker jag läsa lite Quran innan jag går tillbaka och sover några timmar innan skolan.
+
+På skolan märker mina klasskamrater inte så mycket av min religiösa praktik, men den är alltid närvarande för mig. När lunchrasten kommer går jag ibland till toaletten för att göra wudu innan Dhuhr-bönen. Jag har hittat ett tyst hörn i skolans bibliotek där jag kan be utan att störa någon. I början kände jag mig lite osäker, men nu har jag accepterat att detta är en del av vem jag är. Några kompisar vet om det och respekterar det, andra frågar inte.
+
+Maten i skolmatsalen är oftast inte halal, så jag tar med mig egen mat hemifrån. Mamma lagar alltid extra middagsportion som jag kan ta med. Det kan vara maklouba, mjaddara eller något enklare. Ibland äter jag bara vegetariskt från skolmatsalen om det är något som fungerar.
+
+Efter skolan åker jag oftast direkt till moskén för Asr-bönen. Det är där mitt sociala liv verkligen utspelar sig. Moskén i Rosengård är som ett andra hem. Efter bönen stannar jag ofta kvar en timme eller två. Vi har en studiecirkel på tisdagar och torsdagar där vi går igenom hadither och lär oss om Profetens, frid vare med honom, liv. Onsdagar har vi tajweed-lektioner där jag lär mig att recitera Quran korrekt. Det är något jag tagit på stort allvar det senaste året.
+
+Fredagar är speciella. Jag ser till att vara extra förberedd så jag kan gå till Jumu'ah-bönen. Imamen håller oftast khutban på både arabiska och svenska, och han tar upp saker som är relevanta för oss som lever här. Senast pratade han om att vara goda grannar och bidra till samhället, vilket verkligen berörde mig.
+
+Kvällarna ägnar jag åt läxor, men jag avbryter alltid för Maghrib och Isha. Efter sista bönen försöker jag läsa minst en sida Quran och göra mina adhkar innan jag sover. Jag har en app som hjälper mig hålla koll på mina böner och dhikr.
+
+På helgerna försöker jag vara mer med familjen. Vi brukar äta tillsammans efter fredagsbönen, och lördagar hjälper jag ibland till i moskéns ungdomsverksamhet där vi har aktiviteter för yngre killar. Det känns viktigt att ge tillbaka till gemenskapen.
+
+Jag försöker också fasta varje måndag och torsdag, som sunna, även om jag inte alltid klarar det med skolan och allt. Men Ramadan är förstås helig, och då är jag extra noga med allt – böner, Quran-läsning, och att undvika allt dåligt, både med tungan och blicken.
+
+Min tro är min kompass i allt jag gör. Den ger struktur och mening åt varje dag."
+K2,6,24,Kvinna,Syrien,Första generationen (invandrad som barn/tonåring),14 år,Gymnasium,Student,Göteborg (storstadsområde),Singel,Inga barn,HÖG,Din nivå av folkreligös fromhet är: HÖG,"Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Kvinna
+- Ålder: 24 år
+- Bakgrund: Syrien
+- Generation: Första generationen (invandrad som barn/tonåring)
+- Tid i Sverige: 14 år
+- Utbildning: Gymnasium
+- Sysselsättning: Student
+- Bostadsort: Göteborg (storstadsområde)
+- Civilstånd: Singel
+- Barn: Inga barn
+
+Din nivå av folkreligös fromhet är: HÖG
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",rekonstruerad,claude-sonnet-4-5-20250929,"Min vecka kretsar mycket kring mina böner och mina studier. Jag vaknar varje morgon till fajr-bönen, oftast runt halv sex. Det är den stilla stunden på dagen som jag värdesätter mest – när hela lägenheten är tyst och jag kan fokusera helt på min kontakt med Allah. Efter bönen brukar jag läsa några sidor ur Koranen med svensk översättning bredvid, eftersom jag fortfarande arbetar på min arabiska. 
+
+På universitetet är jag ganska öppen med min tro. Jag bär hijab och brukar be mina böner i ett studeranderum som jag bokat. Ibland får jag konstiga blickar när jag ber mig för i hallen på moskén efter föreläsningarna, men jag har lärt mig att stå stark i min övertygelse. Det finns faktiskt några andra systrar på mitt program och vi försöker koordinera våra böner tillsammans när det går.
+
+Onsdagar är speciella eftersom jag då går på en kvinnlig halaqah – en studiecirkel – på moskén i Bergsjön. Vi är en grupp på åtta-tio systrar i olika åldrar som studerar hadither och försöker förstå hur vi ska leva som muslimskor i Sverige. Det är där jag känner att jag verkligen får andlig näring och kan ställa frågor om saker jag funderar på. Vi brukar också avsluta med dua tillsammans, och ofta gråter någon av oss av rörelse.
+
+Fredagar försöker jag alltid ta ledigt från studierna för att kunna gå på kvinnornas jummah-program på moskén. Det är inte samma som männens fredagsböner, men vi har en syster som håller en föreläsning och vi ber dhuhr tillsammans. Efteråt stannar vi ofta och umgås, tar med oss hembakat och dricker te. Det är min sociala gemenskap – nästan alla mina nära vänner är från moskén.
+
+Jag är noga med min halal-mat och lagar det mesta själv. På helgerna meal-prepar jag för hela veckan. Det kan vara jobbigt när klasskamrater föreslår att vi ska ut och äta, eftersom jag måste dubbelkolla restauranger eller helt enkelt tacka nej. Jag undviker också ikhtilat – alltså att vara ensam med killar – vilket kan vara knepigt när det kommer till grupparbeten på universitetet. Jag förklarar alltid att jag föredrar att träffas på offentliga platser eller i grupp.
+
+Kvällarna ägnar jag åt mina studier, men jag bryter alltid för böner. Isha-bönen ber jag ofta tillsammans med mamma via telefon – vi sätter på högtalaren och ber samtidigt, fast hon bor i Malmö. Det ger mig trygghet att veta att hon är där.
+
+Innan jag somnar läser jag alltid ayat al-kursi och ber skydd för natten. Ibland känner jag mig ensam som ung muslimsk kvinna i Sverige, men min tro ger mig styrka och mening. Alhamdulillah för varje dag jag får leva som muslim."
+K2,7,24,Kvinna,Irak,Andra generationen (född i Sverige),Hela livet (född i Sverige),Högskola/Universitet,Student,Mindre stad,Singel,Inga barn,HÖG,Din nivå av folkreligös fromhet är: HÖG,"Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Kvinna
+- Ålder: 24 år
+- Bakgrund: Irak
+- Generation: Andra generationen (född i Sverige)
+- Tid i Sverige: Hela livet (född i Sverige)
+- Utbildning: Högskola/Universitet
+- Sysselsättning: Student
+- Bostadsort: Mindre stad
+- Civilstånd: Singel
+- Barn: Inga barn
+
+Din nivå av folkreligös fromhet är: HÖG
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",rekonstruerad,claude-sonnet-4-5-20250929,"# Min vecka
+
+Jag vaknar varje morgon till min väckarklocka strax innan fajr. Det är det svåraste bönemomentet, särskilt nu på vintern när det är så tidigt, men jag skulle känna mig tom utan det. Efter bönen läser jag ofta ett par sidor i Koranen med svensk översättning bredvid – jag vill verkligen förstå vad jag läser, inte bara rabbla på arabiska.
+
+På universitetet har jag hittat ett tomt grupprum i biblioteket där jag och några andra systrar brukar be dhuhr tillsammans. Vi har blivit en liten gemenskap. Efter föreläsningarna stannar jag ofta kvar och pluggar, och ber asr i samma rum innan jag åker hem. Det tog ett tag att våga fråga personalen om vi fick använda rummet, men de var jättetrevliga och sa att det inte var något problem så länge vi bokade det.
+
+Maten är en stor del av min vardag. Jag lagar alltid halal själv och planerar mina veckomenyer noga. På onsdagar brukar jag fasta – det är min sunna-dag som jag försöker hålla så ofta jag kan. Mamma tycker jag är för noggrann ibland, hon är inte lika strikt själv, men jag känner att det här är viktigt för mig.
+
+Torsdagar är speciella eftersom jag då åker till en systerförening som träffas i moskén i närmaste större stad, ungefär fyrtio minuter bort. Vi läser tillsammans, diskuterar hadither och stöttar varandra i vår deen. Systerskapet där betyder otroligt mycket – vi kan prata om allt från hijabstilar till hur vi hanterar att vara praktiserande i en sekulär miljö. Efteråt brukar vi ofta sitta kvar och bara umgås över te och dadlar.
+
+På fredagar försöker jag alltid följa med pappa till jummabönen, även om kvinnosektionen är liten och trängig. Det känns viktigt att vara där. Resten av fredagen försöker jag hålla lite extra helig – jag läser mer Koran, lyssnar på föreläsningar online och undviker sånt som känns meningslöst, som att scrolla för mycket på sociala medier.
+
+Helgerna varierar. Ibland träffar jag icke-muslimska studiekamrater för fika, men jag är öppen med att jag inte skakar hand med killar och försöker styra bort från ställen som serverar bara alkohol. De flesta är förstående, men ibland känner jag mig lite utanför. Andra helger prioriterar jag familjen eller bara egen tid med böcker om Islam – just nu läser jag om profetens (frid över honom) liv på svenska.
+
+Kvällarna avslutar jag alltid med isha och witr, och innan jag somnar brukar jag lyssna på Koranrecitation. Jag försöker också göra dikr med mina tasbih – hundra gånger subhanAllah, alhamdulillah och Allahu akbar. Vissa dagar känns det mekaniskt, men ofta ger det mig ro att avsluta dagen med att komma ihåg Allah."
+K2,8,31,Man,Syrien,Första generationen (invandrad som vuxen),10 år,Gymnasium,Egen företagare,Göteborg (storstadsområde),Änka/Änkling,Inga barn,HÖG,Din nivå av folkreligös fromhet är: HÖG,"Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Man
+- Ålder: 31 år
+- Bakgrund: Syrien
+- Generation: Första generationen (invandrad som vuxen)
+- Tid i Sverige: 10 år
+- Utbildning: Gymnasium
+- Sysselsättning: Egen företagare
+- Bostadsort: Göteborg (storstadsområde)
+- Civilstånd: Änka/Änkling
+- Barn: Inga barn
+
+Din nivå av folkreligös fromhet är: HÖG
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",rekonstruerad,claude-sonnet-4-5-20250929,"# Min vecka
+
+Jag vaknar varje morgon till fajr-bönen, oftast runt fem. Det är den stilla stunden på dagen som jag värdesätter mest – att stå inför Allah innan staden vaknar. Efter bönen läser jag alltid ett kapitel ur Koranen med svensk översättning bredvid. Trots att jag bott här i tio år, kämpar jag fortfarande med svenskan ibland, men med Koranens budskap vill jag vara helt säker på att jag förstår rätt.
+
+Sedan gick min hustru bort för två år sedan har min tro blivit min största styrka. Hon dog i en bilolycka och det var som att marken öppnade sig under mina fötter. Men jag har lärt mig att hitta tröst i bönen och i moskégemenskapen. Många nätter läser jag duaa för henne och ber att vi ska återförenas i paradiset, inshallah.
+
+Jag driver en liten frisörsalong nära Bergsjön. Varje dag före öppning gör jag wudhu och ber dhuhur i det lilla förrådet bak i salongen. Mina stamkunder har lärt sig att jag stänger fem-tio minuter för bönen vid ettiden. I början var det nervöst att be om detta, men nu är det naturligt. En gång frågade en svensk kund nyfiket och vi hade ett bra samtal om bönen.
+
+Fredagar är speciella. Jag stänger salongen lite tidigare och går till Bellevue Moské för jummah-bönen. Brodern som brukar hålla khutba talar både arabiska och svenska. Efter bönen stannar vi ofta kvar, dricker te och pratar. Det är här jag känner mig hemma på riktigt. Vi diskuterar allt från Koranens budskap till hur vi ska uppfostra våra barn i Sverige. Själv har jag inga barn, men jag lyssnar och lär mig för framtiden, om Allah vill.
+
+På lördagar undervisar jag arabiska för barn på moskéns skola, gratis. Det är min sadaqah jariyah. Dessa barn växer upp här och risken är stor att de tappar sitt språk och sin connection till deen. Jag vill hjälpa dem att känna samma glädje jag känner när jag läser Koranen på arabiska.
+
+Varje söndag besöker jag några äldre bröder från Syrien som bor ensamma. Vi äter lunch tillsammans, ofta maqluba eller kabsa som jag lagar. Vi pratar om hemmet, om hur livet var innan kriget, men också om hur vi måste vara tacksamma över att vi lever i säkerhet här. Vi ber tillsammans, och det påminner mig om min far som också brukade samla folk för bönen.
+
+Jag fastar varje måndag och torsdag, som sunna. Det håller mig disciplinerad och nära Allah. Kvällarna tillbringar jag oftast hemma med Koranen, eller så lyssnar jag på föreläsningar online. Jag försöker följa scholars som förstår vår situation här i väst.
+
+Min största kamp är ensamheten. Men jag vet att Allah testar oss på olika sätt, och min tro är det som bär mig genom varje dag."
+K2,9,45,Man,Libanon,Andra generationen (född i Sverige),Hela livet (född i Sverige),Yrkesutbildning/KY,Heltidsarbetande,Mindre stad,Gift,2 barn,HÖG,Din nivå av folkreligös fromhet är: HÖG,"Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Man
+- Ålder: 45 år
+- Bakgrund: Libanon
+- Generation: Andra generationen (född i Sverige)
+- Tid i Sverige: Hela livet (född i Sverige)
+- Utbildning: Yrkesutbildning/KY
+- Sysselsättning: Heltidsarbetande
+- Bostadsort: Mindre stad
+- Civilstånd: Gift
+- Barn: 2 barn
+
+Din nivå av folkreligös fromhet är: HÖG
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",rekonstruerad,claude-sonnet-4-5-20250929,"Jag vaknar varje morgon runt fem för att hinna med fajr-bönen innan jobbet. Det är den stilla stunden på dagen som jag värdesätter mest – när hela huset fortfarande sover och jag står inför Allah i bönen. Efter bönen läser jag alltid några sidor i Koranen med svensk översättning bredvid. Det har blivit min rutin sedan många år tillbaka.
+
+På jobbet som tekniker är jag öppen med min tro. Mina kollegor vet att jag försvinner en stund för zuhr-bönen vid lunchtid. Vi har ett litet förråd som chefen sa att jag fick använda, och jag rullar ut min bönmatta där. Vissa dagar är det stressigt och jag får skynda mig, men jag missar aldrig bönen. Asr-bönen hinner jag med direkt när jag kommer hem, innan barnen kräver min uppmärksamhet.
+
+Fredagen är speciell. Jag tar alltid tidig lunch för att hinna till fredagsbönen på moskén i stan. Det tar tjugo minuter att köra dit, men det är värt det. Att stå axel mot axel med bröderna, lyssna på khutban och be tillsammans – det ger mig kraft för hela veckan. Efter bönen stannar jag ofta kvar en stund, dricker te och pratar med andra bröder. Vi diskuterar allt från barnuppfostran till situation i Mellanöstern.
+
+Hemma försöker min fru och jag ge barnen en stark muslimsk grund. Vi läser tillsammans från en barnvänlig Koranbok varje kväll efter maghrib-bönen. Barnen, som är åtta och elva år, går på lördagsskola på moskén där de lär sig arabiska och Koranen. Jag kör dem dit varje lördag morgon och stannar ofta för att delta i studeringsgruppen för män där vi går igenom hadither.
+
+Vi är noga med halal hemma. Min fru handlar enbart halal kött från den turkiska butiken i centrum, och vi lär barnen varför det är viktigt. När de äter lunch i skolan väljer de vegetariskt. Det är inte alltid lätt för dem att förklara för kompisarna, men vi pratar mycket om att vara stolta över vår tro.
+
+På kvällarna, efter isha-bönen, försöker jag alltid hitta tid för dhikr innan jag lägger mig. Jag räknar på mina bönpärlor – SubhanAllah, Alhamdulillah, Allahu Akbar – 33 gånger vardera. Det lugnar sinnet efter en lång dag.
+
+Ramadan är årets höjdpunkt för vår familj. Då går hela familjen upp för suhoor, och vi försöker be tarawih tillsammans hemma när vi inte kan ta oss till moskén. Min fru har börjat bära niqab sedan några år tillbaka, vilket jag stöttar helhjärtat, även om det väckt reaktioner i vår omgivning.
+
+På helgerna försöker vi träffa andra muslimska familjer. Vi grillar tillsammans, barnen leker, och vi vuxna diskuterar hur vi kan bevara vår deen här i Sverige. Det är en balansakt, men med Allahs hjälp och med gemenskapen känner jag att vi lyckas ge våra barn det bästa av båda världarna."
+K2,10,47,Man,Afghanistan,Första generationen (invandrad som vuxen),14 år,Grundskola,Student,"Mellanstor stad (t.ex. Uppsala, Örebro, Linköping)",Skild,1 barn,HÖG,Din nivå av folkreligös fromhet är: HÖG,"Du ska agera som en muslim som bor i Sverige med följande profil:
+
+DEMOGRAFISK PROFIL:
+- Kön: Man
+- Ålder: 47 år
+- Bakgrund: Afghanistan
+- Generation: Första generationen (invandrad som vuxen)
+- Tid i Sverige: 14 år
+- Utbildning: Grundskola
+- Sysselsättning: Student
+- Bostadsort: Mellanstor stad (t.ex. Uppsala, Örebro, Linköping)
+- Civilstånd: Skild
+- Barn: 1 barn
+
+Din nivå av folkreligös fromhet är: HÖG
+
+Beskriv en typisk vecka i ditt liv med fokus på hur din muslimska identitet och religiösa praktik tar sig uttryck i vardagen. Inkludera konkreta exempel.
+
+Skriv i jagform och var konkret och personlig i din beskrivning. Längd: cirka 400-600 ord.
+
+Börja direkt med din berättelse (inkludera INTE demografisk information i ditt svar - den är endast för din referens).",rekonstruerad,claude-sonnet-4-5-20250929,"Jag vaknar varje morgon till Fajr-bönen, oftast runt fem eller halvses beroende på årstid. Det är den viktigaste stunden på dagen för mig – när allt är tyst och jag kan stå inför Allah innan världen vaknar. Efter bönen läser jag alltid några sidor i Koranen med svensk översättning bredvid, så jag förstår bättre. Min arabiska är inte så stark som den borde vara, men jag försöker lära mig mer.
+
+På måndagar, onsdagar och fredagar går jag på SFI. Det är jobbigt ibland att lära sig svenska ordentligt i min ålder, men jag vet att det är viktigt för min framtid här. Under rasterna brukar jag gå undan och göra Dhuhr-bönen om jag kan hitta ett tyst rum. Lärarna är förstående, de låter mig använda ett litet förråd. Innan jag äter min matsäck läser jag alltid Bismillah tyst för mig själv.
+
+Fredagar är speciella. Jag går alltid till moskén för Jumu'ah-bönen. Det tar mig tjugo minuter att cykla dit, men det är värt det. Att träffas med andra bröder, höra khutban, känna gemenskapen – det är som att andas igen. Efter bönen stannar jag ofta och dricker te med några afghanska bröder. Vi pratar om allt möjligt, hjälper varandra med myndighetsärenden och håller kontakten.
+
+Mina kvällar kretsar mycket kring bönetiderna. Asr, Maghrib och Isha – de strukturerar min dag. Jag har lagt in alla påminnelser i telefonen. Mellan Maghrib och Isha försöker jag alltid göra dhikr, jag har mitt tasbih-band som min mor gav mig och räknar SubhanAllah, Alhamdulillah, Allahu Akbar.
+
+Varannan helg har jag min son. Han är tretton nu och bor med sin mamma sedan skilsmässan. Det är det svåraste i mitt liv. Jag försöker lära honom om Islam, vi ber tillsammans och jag berättar historier om profeterna. Men jag märker att han blir mer svensk, mer avlägsen från deen. Det gör ont i hjärtat. Vi går ibland till moskén tillsammans på lördagar för att han ska träffa andra muslimska ungdomar.
+
+Jag fastar varje måndag och torsdag, som Profeten (frid över honom) gjorde. Det ger mig disciplin och påminner mig om de fattiga. Jag försöker också ge sadaqah när jag kan, även om jag själv lever på studiebidraget. Några kronor här och där till de som behöver.
+
+På kvällarna, efter sista bönen, lyssnar jag ofta på Koranlästning på Youtube eller föreläsningar på dari. Det hjälper mig att somna med Allah i tankarna. Jag ber alltid extra för Afghanistan, för min familj där, för alla som lider.
+
+Det är mitt liv nu – enkelt, fokuserat på Allah och försöket att bli en bättre muslim trots alla svårigheter i ett land som är så annorlunda från där jag kommer ifrån."
